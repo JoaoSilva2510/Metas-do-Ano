@@ -62,6 +62,13 @@ body {
 
 /* código escondido */
 
+    
+.abas-textos{
+ background-color: var(--texto-fundo);
+ padding: 40 px;
+}
+
+
 @media screen and (min-width: 768px){
     .botoes{
         display:flex;
