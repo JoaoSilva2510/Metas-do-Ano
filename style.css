@@ -60,7 +60,11 @@ body {
     display: block;
 }
 
-/* código escondido */
+.ativo{
+    background-color: var(--botao-ativo);
+    border-bottom: 4px solid var(--verde);
+}
+
 
     
 .abas-textos{
